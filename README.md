@@ -11,15 +11,15 @@ pipenv install -r requirements.txt
 python downloads.py <path to a release API endpoint>
 
 ```
-python downloads.py /repos/opensearch-project/blahblahblah/releases
-'https://github.com/opensearch-project/blahblahblah/releases/download/2.9.0/blahblahblah-2.9.0.0.zip'
+python downloads.py /repos/org/blahblahblah/releases
+'https://github.com/org/blahblahblah/releases/download/2.9.0/blahblahblah-2.9.0.0.zip'
 23459
-'https://github.com/opensearch-project/blahblahblah/releases/download/2.8.0/blahblahblah-2.8.0.0.zip'
+'https://github.com/org/blahblahblah/releases/download/2.8.0/blahblahblah-2.8.0.0.zip'
 12233
-'https://github.com/opensearch-project/blahblahblah/releases/download/2.6.0/blahblahblah-2.6.0.0.zip'
+'https://github.com/org/blahblahblah/releases/download/2.6.0/blahblahblah-2.6.0.0.zip'
 101234
-'https://github.com/opensearch-project/blahblahblah/releases/download/2.5.0/blahblahblah.zip'
+'https://github.com/org/blahblahblah/releases/download/2.5.0/blahblahblah.zip'
 131234
-'https://github.com/opensearch-project/blahblahblah/releases/download/2.4.0/blahblahblah.zip'
+'https://github.com/org/blahblahblah/releases/download/2.4.0/blahblahblah.zip'
 362334
 ```
